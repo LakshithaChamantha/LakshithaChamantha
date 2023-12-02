@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Web developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshithachamantha&label=Profile%20views&color=0e75b6&style=flat" alt="lakshithachamantha" /> </p>
-<p>🔭 I’m currently studing Computer Science & Technology</p>
-<p>🌱 I’m currently learning node js</p>
-<p>📫 How to reach me lakshitha8270@gmail.com</p>
+<p>🔭 I’m currently studing <b>Computer Science & Technology</b></p>
+<p>🌱 I’m currently learning <b>node js</b></p>
+<p>📫 How to reach me : <b>lakshitha8270@gmail.com</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
