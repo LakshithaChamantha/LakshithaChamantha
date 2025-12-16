@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshitha Hewage</h1>
-<h3 align="center">A passionate Software developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshithachamantha&label=Profile%20views&color=0e75b6&style=flat" alt="lakshithachamantha" /> </p>
 <p>🔭 I’m currently studing <b>Computer Science & Technology</b></p>
